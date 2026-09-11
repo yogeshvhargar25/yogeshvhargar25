@@ -68,12 +68,12 @@ Cleaned and processed a 200K+ record global WHO dataset, built a Tableau story d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikasjagtap9696&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasjagtap9696&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeshvhargar25&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshvhargar25&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vikasjagtap9696&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yogeshvhargar25&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,3 +83,6 @@ Cleaned and processed a 200K+ record global WHO dataset, built a Tableau story d
 - 📧 Email: vhargaryogesh25@gmail.com
 - 💼 LinkedIn: [yogesh-vhargar](https://www.linkedin.com/in/yogesh-vhargar-3406b4398/)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yogeshvhargar25&color=blueviolet&style=flat" alt="profile views" />
+</p>
