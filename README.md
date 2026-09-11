@@ -4,7 +4,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yogesh-vhargar-3406b4398/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vhargaryogesh25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+917666439565"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yogeshvhargar25&color=blueviolet&style=flat" alt="profile views" />
+</p>
 </p>
 
 <p align="center">📍 Pune, India</p>
@@ -83,6 +85,4 @@ Cleaned and processed a 200K+ record global WHO dataset, built a Tableau story d
 - 📧 Email: vhargaryogesh25@gmail.com
 - 💼 LinkedIn: [yogesh-vhargar](https://www.linkedin.com/in/yogesh-vhargar-3406b4398/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogeshvhargar25&color=blueviolet&style=flat" alt="profile views" />
-</p>
+
